@@ -2,7 +2,6 @@ package in.filteringAnd_Iterating;
 
 import java.util.*;
 import java.util.stream.Collectors;
-
 public class FilteringAnd_Itereting {
 
 	// Java Stream Example: Filtering and Iterating Collection
